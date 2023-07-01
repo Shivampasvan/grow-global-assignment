@@ -16,39 +16,29 @@ Link : - https://assignment-gamma-eight.vercel.app/
 ## Screenshots 
 
 ## Home Page
-
 ![home](https://github.com/Shivampasvan/grow-global-assignment/assets/112854390/c2240f0f-b2cf-4937-af01-44ba098117de)
 
 
-
-
 ## SignUp Page
-![signup](https://github.com/Shivampasvan/grow-global-assignment/assets/112854390/6e4800be-76ec-4eb0-bd87-a3cbfa79434a)
+![signup](https://github.com/Shivampasvan/grow-global-assignment/assets/112854390/3d436de2-0235-4cf0-8d79-7d0212619291)
 
 
 ## Login Page
-
-![login](https://github.com/Shivampasvan/grow-global-assignment/assets/112854390/92dad8e5-0a91-4da2-a20a-1a20caf01a2e)
-
+![login](https://github.com/Shivampasvan/grow-global-assignment/assets/112854390/e85878f1-362e-493b-af34-cd00f214a435)
 
 
 ## Dashboard
-
-![post](https://github.com/Shivampasvan/grow-global-assignment/assets/112854390/f042e612-d121-4bc4-a7c1-8a0df7a64eec)
-
+![post](https://github.com/Shivampasvan/grow-global-assignment/assets/112854390/b4adc6ad-54a8-4758-bd01-d89ea2afb20c)
 
 
 ## Update Post
-
-
-![update](https://github.com/Shivampasvan/grow-global-assignment/assets/112854390/b1745f3b-6193-455f-a026-870c91d2ed0c)
-
+![update](https://github.com/Shivampasvan/grow-global-assignment/assets/112854390/0ef2451f-71ad-482c-b1bf-2350e31a0c81)
 
 
 ## Delete Post
+![delete](https://github.com/Shivampasvan/grow-global-assignment/assets/112854390/e2df59dd-7680-4fd9-b1a6-e233f51d8d93)
 
 
-![delete](https://github.com/Shivampasvan/grow-global-assignment/assets/112854390/3acfd77d-092e-40e5-a241-db6dda647cb5)
 
 
 ## Features
