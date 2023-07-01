@@ -16,8 +16,9 @@ Link : - https://assignment-gamma-eight.vercel.app/
 ## Screenshots 
 
 ## Home Page
-<img src="https://github.com/Shivampasvan/grow-global-assignment/assets/112854390/a71ae508-796d-41e8-bc55-a9d81d487968" alt="home"/>
-<!--![home](https://github.com/Shivampasvan/grow-global-assignment/assets/112854390/a71ae508-796d-41e8-bc55-a9d81d487968)-->
+
+![home](https://github.com/Shivampasvan/grow-global-assignment/assets/112854390/c2240f0f-b2cf-4937-af01-44ba098117de)
+
 
 
 
